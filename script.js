@@ -1,12 +1,4 @@
-// IMPORTANTE: Substitua a string abaixo pela sua chave de API do OpenWeatherMap
-// Para obter uma chave válida:
-// 1. Acesse https://openweathermap.org/
-// 2. Faça login na sua conta
-// 3. Vá em "My API Keys"
-// 4. Se não tiver uma chave, clique em "Generate" para criar uma nova
-// 5. Copie a nova chave e cole abaixo
-// OBS: A chave pode levar algumas horas para ativar após a criação
-const API_KEY = '946a03bd0953b9571e37d65d6491cd37 '; // Substitua esta linha pela sua chave
+const API_KEY = '946a03bd0953b9571e37d65d6491cd37 ';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 const GEOCODING_URL = 'https://api.openweathermap.org/geo/1.0/direct';
 
